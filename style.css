@@ -1,6 +1,6 @@
 .parent {
   display: grid;
-  grid-template-rows: auto 1fr auto / auto 1fr auto;
+  grid-template-columns: minmax(150px, 25%) 1fr;
 }
 
 
@@ -27,6 +27,3 @@ body {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-}
-    
-  
