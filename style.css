@@ -22,3 +22,10 @@ body {
 h5 {
   color: #8B0000
 }
+
+.avatar {
+  vertical-align: right;
+  width: 40%;
+  height: 40%;
+  border-radius: 50%;
+}
